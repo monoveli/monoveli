@@ -1,5 +1,5 @@
-<align="center">![Header](./github-header-image.png)
-<h3 align="center">An enthusiast leaner and Statistics and Data Science student at USP - Brazil.</h3>
+![Header](./github-header-image.png)
+An enthusiast leaner and Statistics and Data Science student at USP - Brazil.
 
 - 🌱 I’m currently learning **SQL and JavaScript**
 
