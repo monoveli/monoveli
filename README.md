@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
-An enthusiast leaner and Statistics and Data Science student at USP - Brazil.
+
+
+**An enthusiast leaner and Statistics and Data Science student at USP - Brazil.**
 
 - 🌱 I’m currently learning **SQL and JavaScript**
 
