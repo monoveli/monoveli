@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<h1 align="center">![Header](./github-header-image.png)
 <h3 align="center">An enthusiast leaner and Statistics and Data Science student at USP - Brazil.</h3>
 
 - 🌱 I’m currently learning **SQL and JavaScript**
